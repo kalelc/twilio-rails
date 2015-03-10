@@ -1,0 +1,16 @@
+development:
+  TWILIO_URL: https://api.twilio.com/2010-04-01
+  TWILIO_SID: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  TWILIO_TOKEN: yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+  TWILIO_PHONE_NUMBER: "+11111111111"
+test:
+  TWILIO_URL: https://api.twilio.com/2010-04-01
+  TWILIO_SID: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  TWILIO_TOKEN: yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+  TWILIO_PHONE_NUMBER: "+11111111111"
+production:
+  TWILIO_URL: https://api.twilio.com/2010-04-01
+  TWILIO_SID: AC8785bbc64b68148a7355d78496361d4f
+  TWILIO_TOKEN: f84b3b8d2055457744fea5afc00d22e0
+  TWILIO_PHONE_NUMBER: "+11111111111"
+
